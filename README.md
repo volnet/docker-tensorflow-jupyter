@@ -1,1 +1,1 @@
-# docker-tf-notebook
+# docker-tensorflow-jupyter
